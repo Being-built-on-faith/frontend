@@ -1,0 +1,7 @@
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+source ~/.bashrc
+
+# javascript implicit takes the end of a line and adds semicolumn to it.
+# it is recommended to put in semicolumn at the end of each line.
+
+
